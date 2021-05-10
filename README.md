@@ -23,10 +23,10 @@
  JavaScript ★★☆☆☆  
  
  #作成したアプリケーションの概要
- chat-app:    ユーザー管理機能、チャットルーム管理機能、メッセージ管理機能を実装したチャットアプリ
- furima:　    クレジットカード決済機能を実装したフリマアプリ
- protospace:  アプリケーションの試作品(プロトタイプ)共有サービスアプリ
- phase-app:   画像を複数枚投稿できる投稿アプリケーション
+ chat-app:    ユーザー管理機能、チャットルーム管理機能、メッセージ管理機能を実装したチャットアプリ  
+ furima:　    クレジットカード決済機能を実装したフリマアプリ  
+ protospace:  アプリケーションの試作品(プロトタイプ)共有サービスアプリ  
+ phase-app:   画像を複数枚投稿できる投稿アプリケーション  
 
 # 作成したアプリケーションのGitHubアドレス
  chat-app   :https://github.com/fisher1031/chat-app  
@@ -35,5 +35,5 @@
  phase-app  :https://github.com/fisher1031/phase-app-34833  
 
 # 作成したアプリケーションのアドレス 
- protospace :https://protospace-34833.herokuapp.com/
+ protospace :https://protospace-34833.herokuapp.com/  
  phase-app  :https://phase-app-34833.herokuapp.com/
